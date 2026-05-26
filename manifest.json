@@ -1,0 +1,26 @@
+{
+  "name": "Keuangan 2026",
+  "short_name": "Keuangan",
+  "description": "Aplikasi manajemen keuangan pribadi 2026",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0f766e",
+  "background_color": "#ffffff",
+  "lang": "id",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTIgMTkyIj48cmVjdCB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgcng9IjQyIiBmaWxsPSIjMGY3NjZlIi8+PHBhdGggZD0iTTEzNCA3NnYtOGExNiAxNiAwIDAgMC0xNi0xNkg2MGExNiAxNiAwIDAgMC0xNiAxNnY4MGExNiAxNiAwIDAgMCAxNiAxNmg4NGExNiAxNiAwIDAgMCAxNi0xNnYtMTAiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMTAiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik0xNTggMTAwdjMyaC0zMmExNiAxNiAwIDAgMSAwLTMyaDMyWiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxMCIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PC9zdmc+",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgcng9IjExMiIgZmlsbD0iIzBmNzY2ZSIvPjxwYXRoIGQ9Ik0zNTggMjAydi0yMmE0MiA0MiAwIDAgMC00Mi00MkgxNjBhNDIgNDIgMCAwIDAtNDIgNDJ2MjEzYTQyIDQyIDAgMCAwIDQyIDQyaDIyNGE0MiA0MiAwIDAgMCA0Mi00MnYtMjciIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMjYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik00MjAgMjY2djg2aC04NmE0MyA0MyAwIDAgMSAwLTg2aDg2WiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyNiIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PC9zdmc+",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
